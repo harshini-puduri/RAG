@@ -5,3 +5,7 @@ pandas
 huggingface
 sentence-transformers
 faiss-cpu
+pypdf
+langchain-community
+python-dotenv
+rank_bm25
